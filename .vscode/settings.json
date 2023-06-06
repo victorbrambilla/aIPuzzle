@@ -1,0 +1,11 @@
+{
+  "python.analysis.extraPaths": [
+    "./Auxiliares",
+    "./Auxilares",
+    "./Auxiliares",
+    "./Aux",
+    "./Auxiliares",
+    "./Auxiliares",
+    "./Auxiliares"
+  ]
+}
