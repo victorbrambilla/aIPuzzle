@@ -16,7 +16,7 @@ To run the code, you need to have Python installed on your system. The code is c
 
 1. Clone the repository to your local machine or download the ZIP file and extract its contents.
   
-git clone https://github.com/your-username/local-search-algorithms.git
+git clone https://github.com/YasminAlmeida/aIPuzzle.git
   
 
 2. Open a terminal or command prompt and navigate to the project directory.
